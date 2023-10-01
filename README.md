@@ -1,24 +1,3 @@
 # frontendcomparator-vue
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Frontend app created using vue. Purpose of the apllication is to meausre and compare frontend frameworks.
